@@ -11,3 +11,17 @@ The game allows for user authentication, which allows you to enter the site and 
 
 ### How To Play
 Each character on the board was designed asymmetrically with different health, attack, and defense abilities. These are conveniently outlined in a table at the bottom of the page. Select the tiles to move your army across the board and watch the enemies' movement towards you. If you encounter an enemy sprite on your journey across the board, you'll fight to the death. You win by capturing your opponent's base.
+
+### Technologies Used
+  * HTML
+  * CSS
+  * Bootstrap
+  * Javascript
+  * jQuery
+  * PassportJS (User Authentication)
+  * Phaser (Game Engine)
+  * ExpressJS (Server)
+  * NodeJS (Backend)
+  * HandlebarsJS (Templating)
+  * MySQL Database
+  * Sequelize (ORM)
