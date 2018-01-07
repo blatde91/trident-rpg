@@ -3,7 +3,7 @@
 
 View the live site on heroku [HERE](http://trident-of-mina.herokuapp.com/)
 
-***Trident of Mina*** is the brainchild of <a href="https://github.com/blatde91">Daniel Blat</a>, who envisioned a new tactical RPG experience with challenging mechanics and interesting narrative-based armies. The game was built with the coding contributions by Daniel himself, Sara Hjelt, <a href="http://github.com/catslug">Lindsay Wall</a>, and <a href="http://github.com/brandon-Pfeiffer">Brandon Pfeiffer</a>.
+***Trident of Mina*** is the brainchild of <a href="https://github.com/blatde91">Daniel Blat</a>, who envisioned a new tactical RPG experience with challenging mechanics and interesting narrative-based armies. The game was built with the coding contributions by Daniel himself, <a href="http://github.com/sarahjelt">Sara Hjelt</a>, Lindsay Wall, and <a href="http://github.com/brandon-Pfeiffer">Brandon Pfeiffer</a>.
 
 ### User Story
 *Trident of Mina* uses <a href="http://phaser.io/">Phaser</a> as the game engine. All game tiles and sprites are by <a href="http://pousse.rapiere.free.fr/tome/">David E. Gervais</a> and used under a Creative Commons 3.0 License.
